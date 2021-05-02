@@ -33,7 +33,7 @@ Even simpler:
 
 ## Documentation
 
-For more information, check the documentation at https://pokeapi.github.io/pokepy
+For more information, check the documentation at https://pokeapi.co/
 
 ## Features
 
